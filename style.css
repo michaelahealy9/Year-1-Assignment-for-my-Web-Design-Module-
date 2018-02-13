@@ -1,0 +1,64 @@
+a:link
+{
+	color:white;
+	font-size:30px;
+	padding:20px;
+}
+
+a:visited
+{
+	color:black
+}
+a:hover
+{
+
+	font-size: 30px;
+	color:purple;
+}
+
+input
+{
+	float: right;
+}
+h1
+{
+	text-align: center;
+	color:blue;
+	font-size:40px;
+}
+
+h2
+{
+	font-size:30px;
+	color:white;
+}
+#content
+{
+	text-align: center;
+	font-size:30px;
+}
+#side-bar
+{
+
+	float:center;
+	font-size:20px;
+	font-family: georgia,fantasy;
+
+}
+#footer
+{
+	text-align: center;
+	padding:100px;
+}
+#side
+{
+	padding-top: 10px;
+	float:left;
+	padding-right: 200px;
+}
+#web
+{
+	width: 400px;
+	text-align: center;
+	margin-right: 20px;
+}

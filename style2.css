@@ -1,0 +1,63 @@
+a:link
+{
+	color:white;
+	font-size:30px;
+	padding:20px;
+}
+a:visited
+{
+	color:black
+}
+body
+{
+	background-image:url("background.png");
+}
+
+input
+{
+	float: right;
+}
+table,th,td
+{
+	border-spacing: 10px;
+	border:10px solid white;
+	float:center;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-align:left;
+	font-size: 20px;
+
+}
+td
+{
+	border-width: 8px;
+	width: 300px;
+}
+#content
+{
+	width:70%;
+
+}
+#table
+{
+	table-layout: center;
+	float:center;
+}
+#side-bar
+{
+	float: right;
+}
+#footer
+{
+	text-align: center;
+	height:65%;
+	width:65%;
+}
+
+h1{
+	color:#5F04B4;
+	font-size: 40px;
+
+}
